@@ -31,7 +31,7 @@ architectures.
 * **Software:** Ubuntu, Native ROCm, PyTorch, vLLM, WORM Databases (ChromaDB),
 Python.
  ### Let's Connect
-I'm actively seeking roles in **Aerospace, Defense, Advanced Manufacturing**, orinfrastructure teams where bare-metal execution and air-gapped security are baseline
+I'm actively seeking roles in **Aerospace, Defense, Advanced Manufacturing**, or infrastructure teams where bare-metal execution and air-gapped security are baseline
 requirements, not afterthoughts. 
  * *Based in Indianapolis, IN.*
 * *Open to Hybrid/On-Site roles and roles requiring clearance.*
